@@ -1,6 +1,6 @@
 Informations générales:
 
-Ce site web a été développé en html/css/php/js dans le cadre d'un TER de l'UE HLIN405 de l'Université de Montpellier.
+Ce site web a été développé en SQL/HTML/CSS/PHP/JS dans le cadre d'un TER de l'UE HLIN405 de l'Université de Montpellier.
 
 Utilisation:
 
